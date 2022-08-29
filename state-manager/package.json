@@ -1,0 +1,19 @@
+{
+  "name": "state-manager",
+  "version": "1.0.0",
+  "description": "state manager package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l1f11bscs0098/Staytus.git"
+  },
+  "author": "Salman Imtiaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l1f11bscs0098/Staytus/issues"
+  },
+  "homepage": "https://github.com/l1f11bscs0098/Staytus#readme"
+}

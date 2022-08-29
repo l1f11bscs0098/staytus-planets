@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "state-manager": "^1.0.1",
+    "tailwindcss": "^3.1.8"
+  },
+  "name": "planets",
+  "version": "1.0.0",
+  "description": "State Manager for planets",
+  "main": "planets.js",
+  "scripts": {
+    "test": "no test at the moment"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l1f11bscs0098/Staytus.git"
+  },
+  "author": "Salman Imtiaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l1f11bscs0098/Staytus/issues"
+  },
+  "homepage": "https://github.com/l1f11bscs0098/Staytus#readme"
+}
